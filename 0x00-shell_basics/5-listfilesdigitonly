@@ -1,0 +1,14 @@
+drwxr-xr-x 2 0 0 139 Nov 30 17:19 .                                                                                                     
+
+drwxr-xr-x 4 0 0  43 Nov 30 16:56 ..                                                                                                    
+
+-rw-r--r-- 1 0 0  60 Nov 30 17:01 0-current_working_directory.sh                                                                         
+-rw-r--r-- 1 0 0  39 Nov 30 17:06 1-listit                                                                                              
+
+-rw-r--r-- 1 0 0  35 Nov 30 17:12 2-bring_me_home                                                                                       
+
+-rw-r--r-- 1 0 0 463 Nov 30 17:14 3-listfiles                                                                                           
+
+-rw-r--r-- 1 0 0 459 Nov 30 17:19 4-listmorefiles                                                                                       
+
+-rw-r--r-- 1 0 0  13 Nov 30 17:04 README.md
